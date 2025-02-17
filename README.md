@@ -1,5 +1,7 @@
 # Vitamin Bot - Telegram-бот для расчета калорий и покупки продуктов
-<img src="https://good-tabs.ru/upload/iblock/218/cor7k2zc32c10qyyzbi61ja1qubog3k7.jpeg" align=left>
+
+<img src="screen_shots/IMG_8250.PNG" alt="Скриншот бота" width="300" style="float: right; margin-left: 10px;">
+
 
 ## ➡️ О проекте
 Этот проект представляет собой Telegram-бота, разработанного для помощи пользователям в расчете суточной нормы калорий и предоставления информации о продуктах, которые можно приобрести. Бот использует библиотеку `aiogram` для взаимодействия с пользователями через Telegram.
